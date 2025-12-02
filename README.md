@@ -1,6 +1,8 @@
 # 📝 WebNotes
 
 <div align="center">
+
+  <img src="https://i.ibb.co/qwGFHqq/webnote-banner.png" alt="WebNotes Banner" width="800"/>
   
   ![WebNotes Banner](https://img.shields.io/badge/WebNotes-Organize%20suas%20ideias-blue?style=for-the-badge)
   
