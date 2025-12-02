@@ -219,19 +219,11 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 - Inspiração de design de várias aplicações de notas
 - Comunidade open source
-
----
-
-## 📊 Status do Projeto
-
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/webnotes?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/webnotes?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/webnotes?style=flat-square)
-
+- Facilitar processos de comunicação
 ---
 
 <div align="center">
 
-**Desenvolvido por WebCash.
+Desenvolvido por WebCash.
 
 </div>
