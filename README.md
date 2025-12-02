@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://i.ibb.co/H9yc64r/carrossel-4.png" width="800"/>
+  <img src="img/webnote.png" width="800"/>
   
   ![WebNotes Banner](https://img.shields.io/badge/WebNotes-Organize%20suas%20ideias-blue?style=for-the-badge)
   
